@@ -1,5 +1,3 @@
-Menghitung Luas Persegi
-
 #include<stdio.h>
 int main()
 {
